@@ -7,7 +7,7 @@ title: 等我想一个好点的名字再换
 subtitle:
 description:
 keywords:
-author: xs
+author: Xu-Shuai
 language: zh-Hans
 timezone:
 
@@ -79,4 +79,4 @@ theme: landscape
 ## Docs: https://hexo.io/docs/deployment.html
 deploy:
   type: git
-  repo: https://github.com/Xu-Shuai/Xu-Shuai.githup.io.git
+  repo: git@github.com:/Xu-Shuai/Xu-Shuai.github.io.git
