@@ -1,5 +1,9 @@
 ---
 title: Spring boot 接入redis
+date: 2018年3月27日11:04:17
+tags: [Java,Spring Boot,Redis]
+categories: [Java,Spring,Spring Boot]
+toc: true
 ---
 #### 1、使用properties或yml文件配置
         这种方式最简单，只需要引入spring-boot-starter-data-redis包，并且写好properties配置文件，那么依赖中的RedisAutoConfiguration类就会自动加载配置文件，这种方式提供了两种bean：RedisTemplate和StringRedisTemplate两种

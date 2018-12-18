@@ -1,5 +1,9 @@
 ---
 title: 使用Spring boot集成Freemarker生成word文档
+date: 2018年3月27日11:04:17
+tags: [Java]
+categories: [Java]
+toc: true
 ---
    ##### FreeMarker介绍
    FreeMarker 是一款 模板引擎： 即一种基于模板和要改变的数据， 并用来生成输出文本(HTML网页，电子邮件，配置文件，源代码等)的通用工具。 它不是面向最终用户的，而是一个Java类库，是一款程序员可以嵌入他们所开发产品的组件。模板编写为FreeMarker Template Language (FTL)。
