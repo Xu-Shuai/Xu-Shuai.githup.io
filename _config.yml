@@ -3,7 +3,7 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: 等我想一个好点的名字再换
+title: 憨憨笔迹
 subtitle:
 description:
 keywords:
@@ -78,7 +78,7 @@ pagination_dir: page
 #theme: material
 #theme: yilia
 #theme: mi
-theme: next
+theme: landscape
 
 # Deployment
 ## Docs: https://hexo.io/docs/deployment.html
